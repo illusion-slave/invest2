@@ -158,4 +158,4 @@ if __name__ == '__main__':
     res2 = get_info2()
     list_result2 = parse_info(res2)
     webhook2 = "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=9b6a9289-c683-4f42-9a77-04c4384cf19e"
-    push_info(filepath,list_result2,webhook3)
+    push_info(filepath,list_result2,webhook2)
